@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickSplitter</string>
+    <string name="tile_label">画面分割</string>
+    <string name="toast_message">画面分割を切り替えました</string>
+    <string name="permission_request_title">ユーザー補助機能利用の許可</string>
+    <string name="permission_request_message">この機能を使うためには、ユーザー補助の設定から QuickSplitter を ON にしてください。</string>
+    <string name="accessibility_description">
+        QuickSplitter は通知の状態変化を取得し、分割画面モードを制御します。
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickSplitter</string>
+    <string name="tile_label">Split screen</string>
+    <string name="toast_message">Split-screen mode toggled</string>
+    <string name="permission_request_title">Permission request</string>
+    <string name="permission_request_message">For this app to work, it needs Accessibility Service permission to be granted.</string>
+    <string name="accessibility_description">
+        QuickSplitter retrieves notification state change events and controls split-screen mode.
+    </string>
+</resources>
